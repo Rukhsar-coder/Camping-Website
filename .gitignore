@@ -1,0 +1,6 @@
+node_modules/
+.vscode/
+secret_file.txt
+*.log
+
+/assets/img/*
